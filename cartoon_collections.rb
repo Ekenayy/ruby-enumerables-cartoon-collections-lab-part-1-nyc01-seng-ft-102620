@@ -15,4 +15,5 @@ def list_dwarves(array)
   
   array.each_with_index do |characters|
     puts characters
+  end
 end
